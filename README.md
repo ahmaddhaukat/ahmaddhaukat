@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ahmaddhaukat
-- 👀 I’m interested in college and software bootcamp.
-- 🌱 I’m currently learning software engineering.
-- 💞️ I’m looking to collaborate on front end projects
+- 👋 Hi, I’m @ahmaddhaukat.
+- 👀 I’m interested in software engineering.
+- 🌱 I’m currently in school.
+- 💞️ I’m looking to collaborate on front end projects.
 - 📫 How to reach me ahmadshaukat@yahoo.com
 
 <!---
